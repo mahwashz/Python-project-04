@@ -113,7 +113,7 @@ To get started with any of the projects, follow these steps:
 1. **Clone this repository:**
 
    ```bash
-  https://github.com/Sumayyafazalhussain/Python_project_04.git
+  https://github.com/mahwashz/Python-project-04.git
    cd your-repo
 Create a virtual environment (optional but recommended):
 
